@@ -1,2 +1,2 @@
 # can-ui
-website for online store ui with frontend
+website for online store ui frontend
